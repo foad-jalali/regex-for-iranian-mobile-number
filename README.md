@@ -1,5 +1,5 @@
 # regex-for-iranian-mobile-number
-# this is for irancell, rightle and hamrah e aval
+# this is for irancell, rightel and hamrah e aval
 
 ^[0|+98|\]+[9]+[3|2|1|0|]+[0-9]{8}
 
